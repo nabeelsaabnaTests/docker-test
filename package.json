@@ -1,7 +1,0 @@
-{
-  "name": "example_1_single",
-  "version": "1.0.0",
-  "dependencies": {
-    "leven": "3.1.0"
-  }
-}
